@@ -1,3 +1,4 @@
+# Date :
 # Fitting Poisson  distribution
 # Aim : 
 
@@ -31,7 +32,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 # Program :
 ```
 NAME:Gedipudi Darshani
-Reference Number:23004619
+Reference Number:212223230062
 
 
 import numpy as np
@@ -77,7 +78,7 @@ else:
 ![Alt text](<Screenshot (200).png>)
 
 
-# Results
+# Result :
 
-The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
+
  
